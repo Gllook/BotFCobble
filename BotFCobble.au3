@@ -1,10 +1,3 @@
-#Region ;**** Directives created by AutoIt3Wrapper_GUI ****
-#AutoIt3Wrapper_Icon=..\..\..\Downloads\Iron_Pickaxe_25722.ico
-#AutoIt3Wrapper_Res_Description=Bot qui mine de la CobbleStone sur un générateur
-#AutoIt3Wrapper_Res_Fileversion=1.0.0.0
-#AutoIt3Wrapper_Res_LegalCopyright=WTFPL
-#AutoIt3Wrapper_Res_Language=1036
-#EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
 #cs ----------------------------------------------------------------------------
 
  AutoIt Version: 3.3.14.2
